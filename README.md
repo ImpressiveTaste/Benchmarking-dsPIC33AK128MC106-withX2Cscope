@@ -26,7 +26,7 @@ Benchmarking-dsPIC33AK128MC106-withX2Cscope/
 │   ├── nbproject/           <-- MPLAB X configuration files
 │   ├── mcc_generated_files/ <-- Melody-generated drivers (Timer1, UART, etc.)
 │   └── ...
-└── LAB1_BC.X/               <-- Reference project (unused, do not modify)
+└── 
 ```
 
 Everything you need to rebuild, modify, and run the benchmark resides in `X2C-Scope-Blinky-dspic33AK128MC106-Curiosity.X`.
