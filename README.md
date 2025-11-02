@@ -82,7 +82,7 @@ Everything you need to rebuild, modify, and run the benchmark resides in `X2C-Sc
 5. Hit *Run* in X2C Scope. You should see the sine wave update in real time and the timing metrics refresh each millisecond.
 
 YouTube Tutorial for X2Cscope set up: 
-[VIDEO](https://youtu.be/ITWSejzQ9lc))
+[![X2C Scope Setup Tutorial](https://img.youtube.com/vi/ITWSejzQ9lc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ITWSejzQ9lc "X2C Scope Setup Tutorial")
 
 ## How It Works
 
