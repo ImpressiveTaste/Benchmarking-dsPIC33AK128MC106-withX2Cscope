@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/X2C-Scope-Blinky-dspic33AK128MC106-Curiosity.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>10840</used>
+      <free>5544</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131068</length>
+      <used>20232</used>
+      <free>110836</free>
+    </memory>
+  </executable>
+</project>
