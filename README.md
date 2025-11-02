@@ -1,6 +1,6 @@
 # X2C Scope Benchmark Demo
 
-**Last updated:** December 28, 2025
+**Last updated:** November 2, 2025
 
 This repository contains an MPLAB X project (`X2C-Scope-Blinky-dspic33AK128MC106-Curiosity.X`) designed to showcase how to integrate [X2C Scope](https://x2cscope.github.io/) into a dsPIC33AK application for real-time benchmarking and data visualization. The firmware runs on Microchip's dsPIC33AK128MC106  [Part Number: EV02G02A
 ](https://www.microchip.com/en-us/development-tool/EV02G02A) Curiosity board  [Part Number: EV74H48A
