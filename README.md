@@ -47,10 +47,7 @@ Everything you need to rebuild, modify, and run the benchmark resides in `X2C-Sc
 
 ## Setup Instructions
 
-1. **Clone or download** the repository onto your development machine:
-   ```bash
-   git clone https://github.com/<your-account>/X2C-Scope-Add.git
-   ```
+1. **Clone or download** the repository onto your development machine
 
 2. **Open the MPLAB X project**:
    - Launch MPLAB X IDE
