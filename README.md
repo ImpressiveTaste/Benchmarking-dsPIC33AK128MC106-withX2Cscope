@@ -4,7 +4,7 @@
 
 This repository contains an MPLAB X project (`X2C-Scope-Blinky-dspic33AK128MC106-Curiosity.X`) designed to showcase how to integrate [X2C Scope](https://x2cscope.github.io/) into a dsPIC33AK application for real-time benchmarking and data visualization. The firmware runs on Microchip's dsPIC33AK128MC106  [Part Number: EV02G02A
 ](https://www.microchip.com/en-us/development-tool/EV02G02A) Curiosity board  [Part Number: EV74H48A
-](https://www.microchip.com/en-us/development-tool/ev74h48a)  and streams live measurements (interrupt timing, sine/cosine generation, `atan2f` execution cost, etc.) to the X2C Scope PC tool.
+](https://www.microchip.com/en-us/development-tool/ev74h48a)  and streams live measurements (interrupt timing, sine/cosine generation, `atan2f` execution cost, etc.) to the X2C Scope tool.
 
 The goal is to give firmware developers a ready-made sandbox for measuring algorithm timing inside an ISR and exploring how X2C Scope can be used as an in-circuit oscilloscope / watch window with zero code restarts.
 
