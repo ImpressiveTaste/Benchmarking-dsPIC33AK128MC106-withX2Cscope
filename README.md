@@ -43,7 +43,7 @@ Everything you need to rebuild, modify, and run the benchmark resides in `X2C-Sc
 - **Host tooling:**
   - X2C Scope for Windows/Linux (download from [x2cscope.github.io](https://x2cscope.github.io/))
   - pyX2Cscope (download from [pypi.org/project/pyx2cscope](https://pypi.org/project/pyx2cscope/))
-  - USB-to-serial connection from the Curiosity board to your PC (uses UART2 at 115200 bps)
+  - USB-to-serial connection from the Curiosity board to your PC (uses directly the pkob4 present in the curiosity board)
 
 ## Setup Instructions
 
