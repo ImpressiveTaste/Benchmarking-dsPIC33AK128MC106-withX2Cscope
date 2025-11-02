@@ -19,7 +19,7 @@ The goal is to give firmware developers a ready-made sandbox for measuring algor
 ## Repository Layout
 
 ```
-X2C-Scope-Add/
+Benchmarking-dsPIC33AK128MC106-withX2Cscope/
 ├── README.md                <-- you are here
 ├── X2C-Scope-Blinky-dspic33AK128MC106-Curiosity.X/
 │   ├── main.c               <-- Instrumented application code
