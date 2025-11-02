@@ -42,6 +42,7 @@ Everything you need to rebuild, modify, and run the benchmark resides in `X2C-Sc
   - dsPIC33AK-MC_DFP v1.2.125 (already referenced by the project)
 - **Host tooling:**
   - X2C Scope for Windows/Linux (download from [x2cscope.github.io](https://x2cscope.github.io/))
+  - pyX2Cscope (download from [pypi.org/project/pyx2cscope](https://pypi.org/project/pyx2cscope/))
   - USB-to-serial connection from the Curiosity board to your PC (uses UART2 at 115200 bps)
 
 ## Setup Instructions
