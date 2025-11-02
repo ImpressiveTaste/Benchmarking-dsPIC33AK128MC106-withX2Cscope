@@ -33,7 +33,9 @@ Everything you need to rebuild, modify, and run the benchmark resides in `X2C-Sc
 
 ## Requirements
 
-- **Hardware:** Microchip dsPIC33AK128MC106 Curiosity development board.
+- **Hardware:** Microchip dsPIC33AK128MC106 + Curiosity development board. ([Part Number: EV02G02A
+](https://www.microchip.com/en-us/development-tool/EV02G02A) and [Part Number: EV74H48A
+](https://www.microchip.com/en-us/development-tool/ev74h48a))
 - **Toolchain:**
   - MPLAB X IDE v6.25 or later
   - XC-DSC compiler v3.21 (or newer)
