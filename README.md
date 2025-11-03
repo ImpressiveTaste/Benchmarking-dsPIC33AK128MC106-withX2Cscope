@@ -8,6 +8,8 @@ This repository contains an MPLAB X project (`X2C-Scope-Blinky-dspic33AK128MC106
 
 The goal is to give firmware developers a ready-made sandbox for measuring algorithm timing inside an ISR and exploring how X2C Scope can be used as an in-circuit oscilloscope / watch window with zero code restarts.
 
+![Setup](dspicimage.jpg).
+
 ## Project Highlights
 
 - **Real-time signal streaming:** A Timer1 interrupt (1 kHz) feeds X2C Scope with live sine/cosine values, phase angle, and measurement counters.
