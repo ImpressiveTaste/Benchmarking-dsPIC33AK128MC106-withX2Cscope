@@ -136,4 +136,4 @@ Use the helper `ScopeDemo_TicksToUs()` and `g_cyclesPerTimerTick` to convert the
 - [dsPIC33AK128MC106 Curiosity board datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/DS70005475A.pdf)
 - [X2C Scope GitHub organization](https://github.com/X2Cscope)
 
-Feel free to fork the repo, add your own benchmarks, and share results! Contributions are welcome—open an issue or submit a pull request with enhancements, bug fixes, or documentation improvements.
+Feel free to fork the repo, add your own benchmarks, and share results! Contributions are welcome
